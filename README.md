@@ -22,3 +22,11 @@ The objective of this project is to reveal the true economic well-being of peopl
 <img width="2147" height="1044" alt="Picture2" src="https://github.com/user-attachments/assets/99a905ac-0ea1-410a-9d52-db97bbef8d9c" />
 <img width="2147" height="1124" alt="Picture1" src="https://github.com/user-attachments/assets/423812f2-7f95-4d0c-a85c-5dcb9ecc123d" />
 
+## Project Insight
+- The Relative Purchasing Power (RPP) metric is highly effective.
+- The analysis definitively established a severe and urgent global financial dichotomy.
+- The exceptional RPP of India (6.71) offers a viable model for maximizing real wealth.
+- The most fundamental policy failure identified is the lack of guaranteed essential economic surplus for the average citizen in a significant portion of the world.
+
+## Conclusion
+In summary, the large differences in purchasing power between countries show that current global economic policies are not helping people achieve a basic decent standard of living. Going forward, foreign investment, development support, and wage policies need to focus on improving the real earning power of people in struggling countries. The main goal should be to make sure that average incomes are enough to cover basic living costs everywhere, so no country remains in severe economic hardship.
