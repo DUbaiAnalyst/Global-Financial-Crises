@@ -20,3 +20,4 @@ The objective of this project is to reveal the true economic well-being of peopl
 
 ## Dashboard
 <img width="2147" height="1044" alt="Picture2" src="https://github.com/user-attachments/assets/99a905ac-0ea1-410a-9d52-db97bbef8d9c" />
+<img width="2147" height="1044" alt="Picture2" src="https://github.com/user-attachments/assets/605ede54-87fe-437e-b17b-1e5b714d0ee1" />
